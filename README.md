@@ -33,6 +33,7 @@ This is my personal roadmap for becoming better Engineer , recommended not to fo
 1. [Work@Tech](https://workat.tech/practice)
 2. [Github Repo](https://github.com/prasadgujar/low-level-design-primer)
 4. [Low Level Primer](https://github.com/prasadgujar/low-level-design-primer)
+5. [llucifer_lld](https://github.com/llucifer97/low-level-design)
 
 
 
