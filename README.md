@@ -4,13 +4,9 @@ This is my personal roadmap for becoming better Engineer , recommended not to fo
 
 ### Essentials
 
-
-
-
-## 
 - [DESIGN PATTERN](#DesignPattern)
 - [LOW LEVEL DESIGN](#lld)
-- [HIGH LEVEL DESIGN](#tools/libraries)
+- [HIGH LEVEL DESIGN](#HLD)
 - [springboot](#springboot)
 - [java](#java)
 - [Multithreading/parralism](#Multithreading)
