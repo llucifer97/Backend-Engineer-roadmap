@@ -69,6 +69,7 @@ This is my personal roadmap for becoming better Engineer , recommended not to fo
 3. [sivalabs](https://github.com/sivaprasadreddy/spring-boot-microservices-series)
 4. Sam Newman - Building Microservices_ Designing Fine-Grained Systems-O'Reilly Media5
 5. John Carnell, Illary Huaylupo Sánchez - Spring Microservices in Action-Manning Publications (2021)
+6. Chris Richardson - Microservices Patterns_ With examples in Java-Manning Publications (2018)
 
 
 ### Messaging Queues
