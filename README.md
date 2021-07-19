@@ -6,7 +6,6 @@ This is my personal roadmap for becoming better Engineer , recommended not to fo
 
 - [DESIGN PATTERN](#designpattern)
 - [LLD](#lld)
-- [HLD](#hld)
 - [springboot](#springboot)
 - [Multithreading](#multithreading)
 - [Database](#database)
@@ -16,9 +15,10 @@ This is my personal roadmap for becoming better Engineer , recommended not to fo
 ### Good to have
 
 1. [Messaging Queues](#mq)
-4. [Microservices](#microservices)
-5. [TDD](#TDD)
-6. [Azure](#Azure)
+2. [HLD](#hld)
+3. [Microservices](#microservices)
+4. [TDD](#TDD)
+5. [Azure](#Azure)
 
 
 
