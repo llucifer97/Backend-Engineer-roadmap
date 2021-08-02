@@ -77,3 +77,27 @@ This is my personal roadmap for becoming better Engineer , recommended not to fo
 ### Messaging Queues
 1. [to be continued]()
   
+
+
+### Pending Movies
+No 21:The chase
+No 20:The witness
+No 19:Alive
+No 18:Seoul searching
+No 17:Mother
+No 16:Time to hunt
+No 15:Stell Rain
+No 14:Tune in for love
+No 13:Memoir of a Murderer
+No 12:Pandora
+No 11:Okja
+No 10:Tunnel
+No 09:The Call
+No 08:Old boy
+No 07:Space sweepers
+No 06:Forgotten
+No 05:The witch
+No 04:Alongs with the gods
+No 03:Silenced
+No 02:Train to Busan
+No 01:Parasite �
