@@ -31,9 +31,8 @@ This is my personal roadmap for becoming better Engineer , recommended not to fo
 ### LLD
 
 1. [Work@Tech](https://workat.tech/practice)
-2. [Github Repo](https://github.com/prasadgujar/low-level-design-primer)
-4. [Low Level Primer](https://github.com/prasadgujar/low-level-design-primer)
-5. [llucifer_lld](https://github.com/llucifer97/low-level-design)
+2. [Low Level Primer](https://github.com/prasadgujar/low-level-design-primer)
+3. [llucifer_lld](https://github.com/llucifer97/low-level-design)
 
 
 
@@ -89,7 +88,6 @@ No 14:Tune in for love
 No 13:Memoir of a Murderer
 No 11:Okja
 No 10:Tunnel
-No 09:The Call
 No 08:Old boy
 No 05:The witch
 No 03:Silenced
